@@ -1,2 +1,2 @@
-Wave propagation simulations
+### Wave propagation simulations
 
